@@ -3,5 +3,5 @@ To aid students preparing themselves for exams this repository provides a collec
 
 ### Contributing
 Contributions are welcome and encouraged, just open a pull request.
-Curse folders should be named `CourseCode - Full Name of Course`. If the course is given in English the full name should be in English.
+Course folders should be named `CourseCode - Full Name of Course`. If the course is given in English the full name should be in English.
 Exams should be named `CourseCode yyyy-MM-DD Exam[-Answers|-Solutions]` and preferably be in PDF format.
