@@ -7,4 +7,4 @@ Course folders should be named `CourseCode - Full Name of Course`. The full name
 Exams should be named `CourseCode yyyy-MM-DD Exam[-Answers|-Solutions]` and preferably be in PDF format.
 
 #### Example
-`DVA229 2015-06-05 Exam.pdf` For the exam Functional Programming with F# given the date 2015-06-05. If the document contains both the questions and solutions it should be named `DVA229 2015-06-05 Exam-Solutions.pdf`, you can use either `Solutions` or `Answers`. If the document only contains the solutions, it should be named `DVA229 2015-06-05 Exam-Solutions.pdf`.
+`DVA229 2015-06-05 Exam.pdf` For the exam Functional Programming with F# given the date 2015-06-05. If the document contains both the questions and solutions it should be named `DVA229 2015-06-05 Exam-Solutions.pdf`, you can use either `Solutions` or `Answers`. If the document only contains the solutions, it should be named `DVA229 2015-06-05 Solutions.pdf`.
